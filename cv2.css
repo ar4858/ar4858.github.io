@@ -1,0 +1,615 @@
+.anandhu-raj,
+.portfolio {
+  position:absolute;
+  font-size: var(--font-size-45xl);
+  width: 1440px;
+  
+ 
+ 
+}
+.portfolio {
+  top: 227px;
+  left: 590px;
+  font-weight: 500;
+}
+.anandhu-raj {
+  top: 396px;
+  left: 255px;
+}
+.about-me,
+.contact,
+.language,
+.profile,
+.skills {
+  position: absolute;
+  top: 703px;
+  left: 767px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-darkgoldenrod);
+}
+.contact,
+.language,
+.profile,
+.skills {
+  top: 938px;
+  left: 633px;
+  font-size: var(--font-size-13xl);
+}
+.language,
+.profile,
+.skills {
+  top: 1113px;
+}
+.language,
+.profile {
+  top: 1364px;
+}
+.profile {
+  top: 938px;
+  left: 1016px;
+}
+.p {
+  margin: 0;
+}
+.div {
+  position: absolute;
+  height: 75%;
+  width: 93.8%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+ 
+}
+.anandhuraj4858gmailcom {
+  position: absolute;
+  top: 1024px;
+  left: 622px;
+  width: 129px;
+  height: 24px;
+}
+.anandhuraj4858gmailcom1,
+.anandhuraj4858gmailcom2 {
+  position: absolute;
+  top: 1314px;
+  left: 634px;
+  width: 129px;
+  height: 24px;
+}
+.anandhuraj4858gmailcom2 {
+  left: 859px;
+}
+.anandhuraj4858gmailcom3 {
+  position: relative;
+  width: 129px;
+  height: 24px;
+  flex-shrink: 0;
+  margin-left: 10px;
+}
+.anandhuraj4858gmailcom-parent {
+  position: absolute;
+  top: 1474px;
+  left: 588px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 71px;
+}
+.anandhuraj4858gmailcom7,
+.anandhuraj4858gmailcom9 {
+  position: absolute;
+  top: 1072px;
+  left: 622px;
+  width: 262px;
+  height: 24px;
+}
+.anandhuraj4858gmailcom9 {
+  top: 1024px;
+  left: 1006px;
+  width: 286px;
+}
+.uxui-designer-and {
+  color: var(--color-darkgoldenrod);
+}
+.hi-im-anandhu-container {
+  position: absolute;
+  top: 807px;
+  left: 591px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 674px;
+}
+.instagram-logo-icon,
+.libre-gui-email-send-logo-icon,
+.linkedin-logo-icon {
+  position: absolute;
+  top: 1070px;
+  left: 967px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.instagram-logo-icon,
+.libre-gui-email-send-logo-icon {
+  top: 1072px;
+  left: 586px;
+}
+.instagram-logo-icon {
+  top: 1024px;
+  left: 967px;
+}
+.frame-child,
+.vscode-iconsfile-type-vscode {
+  position: relative;
+  width: 47.98px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.vscode-iconsfile-type-vscode {
+  width: 64px;
+  overflow: hidden;
+}
+.frame-inner,
+.frame-item {
+  position: relative;
+  width: 64px;
+  height: 63.99px;
+  flex-shrink: 0;
+}
+.frame-inner {
+  height: 64px;
+}
+.group-parent {
+  position: absolute;
+  top: 1199px;
+  left: 588px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frame-child2,
+.group-icon,
+.line-icon {
+  position: relative;
+  width: 181px;
+  height: 9.95px;
+  flex-shrink: 0;
+}
+.frame-child2,
+.group-icon {
+  height: 10.01px;
+}
+.frame-child2 {
+  height: 10px;
+}
+.vector-parent {
+  position: absolute;
+  top: 1456px;
+  left: 588px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.line-div {
+  position: relative;
+  border-right: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 6px;
+  height: 127px;
+  flex-shrink: 0;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5 {
+  border-right: 6px solid var(--color-darkslategray-100);
+}
+.frame-child4,
+.frame-child5 {
+  border-right: 6px solid var(--color-darkgoldenrod);
+}
+.frame-child5 {
+  border-right: 6px solid var(--color-white);
+}
+.line-group,
+.line-parent {
+  position: absolute;
+  top: 83px;
+  left: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.line-group {
+  top: 574px;
+  left: 1395px;
+}
+.div9 {
+  position: absolute;
+  top: -20px;
+  left: 186px;
+  -webkit-text-stroke: 1px #335641;
+}
+.logo-design {
+  position: absolute;
+  top: 177px;
+  left: 113px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.chapter-one {
+  top: 137px;
+  left: 203px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkgoldenrod);
+}
+.chapter-one,
+.div10,
+.parent {
+  position: absolute;
+}
+.parent {
+  top: 1578px;
+  left: 392px;
+  width: 657px;
+  height: 353px;
+  font-size: var(--font-size-281xl);
+  color: var(--color-gray-100);
+}
+.div10 {
+  top: 0;
+  left: 148px;
+  -webkit-text-stroke: 1px #335641;
+}
+.social-media-post {
+  position: absolute;
+  top: 177px;
+  left: 10px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.chapter-two {
+  top: 137px;
+  left: 197px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkgoldenrod);
+}
+.chapter-two,
+.div11,
+.group {
+  position: absolute;
+}
+.group {
+  top: 2811px;
+  left: 392px;
+  width: 657px;
+  height: 353px;
+  font-size: var(--font-size-281xl);
+  color: var(--color-gray-100);
+}
+.div11 {
+  top: 0;
+  left: 146px;
+  -webkit-text-stroke: 1px #335641;
+}
+.flyer-design {
+  position: absolute;
+  top: 177px;
+  left: 112px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.chapter-three,
+.container {
+  position: absolute;
+  top: 137px;
+  left: 187px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkgoldenrod);
+}
+.container {
+  top: 5495px;
+  left: 392px;
+  width: 657px;
+  height: 353px;
+  font-size: var(--font-size-281xl);
+  color: var(--color-gray-100);
+}
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 473px;
+  height: 760px;
+  object-fit: cover;
+}
+.div12 {
+  position: relative;
+}
+.ghazi-mavericks-group {
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.ghazi-mavericks-group,
+.insurance-group {
+  position: relative;
+  margin-top: -10px;
+}
+.frame-div,
+.frame-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 609px;
+  width: 425px;
+  height: 733px;
+  justify-content: flex-start;
+  gap: 236px;
+}
+.image-4-parent {
+  position: absolute;
+  top: 1971px;
+  left: 203px;
+  width: 1034px;
+  height: 760px;
+  font-size: var(--font-size-xl);
+}
+.anandhus-portfolio-child,
+.anandhus-portfolio-inner,
+.anandhus-portfolio-item {
+  position: absolute;
+  top: 3323px;
+  left: 84px;
+  background-color: #d9d9d9;
+  width: 202px;
+  height: 119px;
+}
+.anandhus-portfolio-inner,
+.anandhus-portfolio-item {
+  top: 3442px;
+  background-color: #4d161b;
+}
+.anandhus-portfolio-inner {
+  top: 3433px;
+  left: 87px;
+  background-color: #0e0a0a;
+  width: 216px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 2.05px;
+  width: 1426.65px;
+  height: 631px;
+  object-fit: cover;
+}
+.image-5-parent,
+.image-6-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 631px;
+}
+.image-6-icon {
+  width: 269.99px;
+  object-fit: cover;
+}
+.image-5-parent {
+  width: 1428.7px;
+}
+.parent3 {
+  position: absolute;
+  top: 55px;
+  left: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.group-container {
+  position: absolute;
+  top: 3204px;
+  left: 6px;
+  width: 1428.7px;
+  height: 631px;
+  font-size: var(--font-size-xl);
+}
+.image-10-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1443px;
+  height: 755px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 299px;
+  left: 977px;
+  background-color: #fffcff;
+  width: 178px;
+  height: 93px;
+}
+.image-10-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1443px;
+  height: 755px;
+}
+.angella-beauty {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 83%;
+  color: #db4654;
+}
+.parent4 {
+  position: absolute;
+  top: 299px;
+  left: 1020px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 3px;
+}
+.group-div {
+  position: absolute;
+  top: 4660px;
+  left: 0;
+  width: 1443px;
+  height: 755px;
+  font-size: var(--font-size-xl);
+  color: #da4754;
+}
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 825px;
+  object-fit: cover;
+}
+.image-8-icon,
+.image-9-icon {
+  top: 445px;
+  left: 1061px;
+  width: 379px;
+  height: 118px;
+}
+.image-9-icon {
+  top: 411px;
+  height: 34px;
+}
+.image-7-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 825px;
+}
+.frame {
+  position: absolute;
+  top: 394px;
+  left: 1090px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.anandhus-portfolio-inner1 {
+  position: absolute;
+  top: 3835px;
+  left: 0;
+  width: 1440px;
+  height: 825px;
+  font-size: var(--font-size-xl);
+}
+.image-11-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1201px;
+  height: 674px;
+  object-fit: cover;
+}
+.frame1 {
+  position: absolute;
+  top: 470px;
+  left: 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.image-11-parent {
+  position: absolute;
+  top: 5888px;
+  left: 119px;
+  width: 1201px;
+  height: 674px;
+  font-size: var(--font-size-xl);
+}
+.picsart-23-04-24-03-13-02-625-icon {
+  position: absolute;
+  top: 707px;
+  left: 45px;
+  width: 426px;
+  height: 785px;
+  object-fit: cover;
+}
+.connect-with-me {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.biinstagram-parent {
+  position: absolute;
+  top: 104px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 49px;
+}
+.connect-with-me-parent {
+  position: absolute;
+  top: 6642px;
+  left: 510px;
+  width: 420px;
+  height: 168px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkgoldenrod);
+}
+.call-logo-icon {
+  position: absolute;
+  top: 1027px;
+  left: 587px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.camera-logo-icon,
+.videocam-logo-icon {
+  position: absolute;
+  top: 1302px;
+  left: 581px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.videocam-logo-icon {
+  top: 1313px;
+  left: 796px;
+}
+.anandhus-portfolio {
+  position: relative;
+  background-color: #0c312a;
+  width: 100%;
+  height: 6890px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
